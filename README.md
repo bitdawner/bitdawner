@@ -21,21 +21,6 @@ React • Next.js • Redux • Zustand • Prisma • PostgreSQL • Tailwind �
 
 ---
 
-### Quick Commands
-
-```powershell
-# new Next app
-npx create-next-app@latest app --ts
-
-# add Tailwind
-npm i -D tailwindcss postcss autoprefixer; npx tailwindcss init -p
-
-# install key libs
-npm i react redux @reduxjs/toolkit zustand prisma @prisma/client react-hook-form react-router-dom
-```
-
----
-
 ### Contact
 
 GitHub: https://github.com/your-username • Portfolio: https://your-portfolio.example

@@ -18,11 +18,3 @@
 ### Quick Tech
 
 React • Next.js • Redux • Zustand • Prisma • PostgreSQL • Tailwind • shadcn • React Hook Form • TypeScript
-
----
-
-### Contact
-
-GitHub: https://github.com/your-username • Portfolio: https://your-portfolio.example
-
-_Replace links above with your profile._

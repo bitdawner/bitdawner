@@ -1,58 +1,112 @@
-# 🚀 Front-End Developer Portfolio
+<!--
+  Beautiful README for a Front-end Developer
+  Tech: React, Redux, Next.js, Prisma, PostgreSQL, shadcn, Tailwind CSS,
+  Zustand, React Hook Form, React Router, Sass, HTML, CSS, JS, TypeScript
+-->
 
-Welcome to my GitHub! I'm a passionate front-end developer specializing in modern web technologies and beautiful UI/UX.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" title="Prisma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="40" title="ShadCN"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="TailwindCSS"/>
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/public/logo.svg" width="40" title="Zustand"/>
-  <img src="https://raw.githubusercontent.com/react-hook-form/react-hook-form/master/docs/logo.svg" width="40" title="React Hook Form"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-plain.svg" width="40" title="React Router"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="Sass"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-</div>
-
----
-
-## ✨ About Me
-
-- 💻 Building scalable, maintainable, and beautiful web apps
-- 🎨 Focused on clean code and modern UI/UX
-- 🧩 State management with Redux & Zustand
-- ⚡ Rapid prototyping with Next.js & TailwindCSS
-- 🗄️ Backend integration with Prisma & PostgreSQL
-- 🧑‍💻 Form handling with React Hook Form
-- 🛣️ Routing with React Router
-- 🧵 Styling with Sass, CSS, and ShadCN
-
----
-
-## 📈 GitHub Stats
+# Front-End Developer — React & Modern Web
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img alt="hero" src="https://raw.githubusercontent.com/github/explore/main/topics/frontend/frontend.png" width="120"/>
+</p>
+
+## About Me
+
+I build beautiful, accessible, and high-performance web applications using React, Next.js and modern tooling. I focus on great developer experience, maintainable state management, and pixel-perfect UI.
+
+---
+
+## Tech Stack
+
+<!-- Badges generated via shields.io and simpleicons.org -->
+
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-00C7B7?style=for-the-badge&logo=zustand&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn-111827?style=for-the-badge&logo=shadcn&logoColor=white" />
+  <img alt="React Hook Form" src="https://img.shields.io/badge/ReactHookForm-2D3748?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/ReactRouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Highlights
 
-- [LinkedIn](https://www.linkedin.com/)
-- [Portfolio](https://your-portfolio.com/)
-- [Twitter](https://twitter.com/)
+- Component-driven UI with Next.js and React
+- Scalable state management: Redux + Zustand for different needs
+- Type-safe code with TypeScript and Prisma for DB modeling
+- Utility-first styling with Tailwind CSS and shadcn UI primitives
+- Forms & validation via React Hook Form
+- Clean routing using React Router / Next.js App Router
 
 ---
 
-> _"Code is poetry. Design is art."_
+## Projects & Patterns I Love
+
+- Jamstack sites with Next.js and incremental static regeneration
+- Full-stack prototypes using Prisma + PostgreSQL
+- Design systems built with Tailwind + shadcn/UI
+- Accessibility-first components (a11y, keyboard nav, focus states)
+
+---
+
+## Example Commands
+
+Use these snippets as starting points for typical tasks.
+
+```powershell
+# Create a Next.js app (TypeScript)
+npx create-next-app@latest my-app --ts
+
+# Add Tailwind CSS
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+# Install common packages
+npm install react redux @reduxjs/toolkit zustand prisma @prisma/client react-hook-form react-router-dom
+
+# Initialize Prisma (example)
+npx prisma init
+```
+
+---
+
+## README Design & Icons
+
+Icons and badges use popular, free providers:
+
+- Shields.io — flexible badges (status, tech, links)
+- Simple Icons / Iconify — brand SVG logos used via CDN
+- Heroicons / Radix Icons — UI icons for components
+
+If you want, I can swap in custom SVGs (Figma exports) or add animated icons.
+
+---
+
+## Contact
+
+If you'd like to collaborate or view my work:
+
+- Portfolio: https://your-portfolio.example
+- Email: your.email@example.com
+- GitHub: https://github.com/your-username
+
+---
+
+## Credits
+
+Badges: Shields.io • Logos: SimpleIcons / Iconify • UI icons: Heroicons
+
+---
+
+_Generated README — edit the Contact and Portfolio links to your real pages._
